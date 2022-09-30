@@ -1,5 +1,5 @@
 
-Hi 👋, I'm Nebiyeluel Yohannes</h1>
+Hello 👋, I'm Nebiyeluel Yohannes</h1>
 <h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2FBqbIhT4Mb7cAAAAd%<h1 align="center">
 
@@ -7,7 +7,7 @@ Hi 👋, I'm Nebiyeluel Yohannes</h1>
 
 <p align="left"> <a href="https://twitter.com/neba_yz" target="blank"><img src="https://img.shields.io/twitter/follow/neba_yz?logo=twitter&style=for-the-badge" alt="neba_yz" /></a> </p>
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently learning **React js and Node js**
 
 - 💬 Ask me about **js**
 
